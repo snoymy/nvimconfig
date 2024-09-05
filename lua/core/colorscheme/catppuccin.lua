@@ -4,7 +4,7 @@ require("catppuccin").setup {
           -- base = "#17171a",
           base = "#17171a",
           -- mantle = "#1b1b1e",
-          mantle = "#232327",
+          mantle = "#111114",
           crust = "#000000",
       },
   },

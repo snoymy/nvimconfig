@@ -17,3 +17,6 @@ nnoremap("gd", vim.lsp.buf.definition)
 nnoremap("td", vim.lsp.buf.type_definition)
 nnoremap("gi", vim.lsp.buf.implementation)
 nnoremap("<leader>rn", vim.lsp.buf.rename)
+nnoremap("gI", ":lua vim.diagnostic.open_float({ focusable = true })<CR>")
+
+nnoremap("?", ":InlineSearch ")

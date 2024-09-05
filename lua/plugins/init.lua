@@ -18,6 +18,7 @@ require("lazy").setup({
     "snoymy/buffer-window",
     'ziglang/zig.vim',
     { 'dstein64/nvim-scrollview', branch = 'main', },
+    'fladson/vim-kitty',
     require("plugins.lualine"),
     require("plugins.telescope"),
     require("plugins.colorscheme"),

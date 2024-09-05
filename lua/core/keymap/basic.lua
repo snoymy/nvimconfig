@@ -57,7 +57,6 @@ nnoremap('<leader>""', 'ciw\\"\\"<Esc><Left>P')
 nnoremap("<leader>''", "ciw\\'\\'<Esc><Left>P")
 nnoremap("<leader>s", ":%s/")
 nnoremap("<c-J>", "i<CR><ESC>")
-nnoremap("?", "V/\\%V")
 
 vnoremap('<leader>d', '"0d')
 vnoremap('<leader>x', '"0x')
